@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  kafka-connect:
+  - apiVersion: v1
+    created: "2024-03-08T11:49:34.8014279+01:00"
+    digest: 442ab9945f43f5446eea3807ab28e5f0380d30db8af4be784eae830e8d05431d
+    name: kafka-connect
+    urls:
+    - https://indexoutofrange.github.io/helmchartreposbx/kafka-connect-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-08T11:49:34.7998305+01:00"
